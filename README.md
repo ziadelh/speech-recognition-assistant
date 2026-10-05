@@ -1,6 +1,6 @@
 # Multilingual Speech Recognition for an Airport Assistant
 
-A prototype of the speech recognition layer for an airport virtual assistant, in Python. It runs **fully offline**, understands **English, Spanish and Italian**, and is built to cope with a **noisy terminal**. It is evaluated by word error rate on 17 spoken airport phrases.
+A prototype of the speech recognition layer for an airport virtual assistant, in Python. It runs **fully offline**, understands **English, Spanish and Italian**, and is built to cope with a **noisy terminal**. It is evaluated by word error rate on 17 spoken airport phrases. Recognition uses Vosk's offline models; the noise filtering and the evaluation around it are written for this project.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadelh/speech-recognition-assistant/blob/main/speech_recognition.ipynb)
 
