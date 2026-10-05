@@ -15,7 +15,7 @@ A prototype of the speech recognition layer for an airport virtual assistant, in
 
 ## Results
 
-The notebook has a `MODEL_SIZE` switch. `small` (the default) downloads about 130 MB of models and runs anywhere, including on Colab. `large` is the configuration I originally submitted: about 5 GB of models and roughly 16 GB of RAM.
+The notebook has a `MODEL_SIZE` switch. `small` (the default) downloads about 130 MB of models and runs anywhere, including on Colab. `large` is the more accurate option: about 5 GB of models and roughly 16 GB of RAM.
 
 | Language | Phrases | Small models | Large models |
 |---|---|---|---|
