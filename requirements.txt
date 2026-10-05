@@ -1,0 +1,7 @@
+vosk
+jiwer
+pydub
+pandas
+matplotlib
+numpy
+jupyter

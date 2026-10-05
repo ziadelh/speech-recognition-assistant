@@ -1,0 +1,69 @@
+Language,File,Condition,WER (%)
+EN,EN/checkin.wav,Clean,40.0
+EN,EN/checkin.wav,Clean + filter,40.0
+EN,EN/checkin.wav,Noisy,40.0
+EN,EN/checkin.wav,Noisy + filter,40.0
+EN,EN/parents.wav,Clean,20.0
+EN,EN/parents.wav,Clean + filter,20.0
+EN,EN/parents.wav,Noisy,20.0
+EN,EN/parents.wav,Noisy + filter,20.0
+EN,EN/suitcase.wav,Clean,16.666666666666664
+EN,EN/suitcase.wav,Clean + filter,16.666666666666664
+EN,EN/suitcase.wav,Noisy,33.33333333333333
+EN,EN/suitcase.wav,Noisy + filter,33.33333333333333
+EN,EN/what_time.wav,Clean,0.0
+EN,EN/what_time.wav,Clean + filter,0.0
+EN,EN/what_time.wav,Noisy,20.0
+EN,EN/what_time.wav,Noisy + filter,20.0
+EN,EN/where.wav,Clean,0.0
+EN,EN/where.wav,Clean + filter,0.0
+EN,EN/where.wav,Noisy,0.0
+EN,EN/where.wav,Noisy + filter,0.0
+EN,EN/sent1.wav,Clean,10.0
+EN,EN/sent1.wav,Clean + filter,0.0
+EN,EN/sent1.wav,Noisy,10.0
+EN,EN/sent1.wav,Noisy + filter,0.0
+EN,EN/sent2.wav,Clean,0.0
+EN,EN/sent2.wav,Clean + filter,0.0
+EN,EN/sent2.wav,Noisy,28.57142857142857
+EN,EN/sent2.wav,Noisy + filter,28.57142857142857
+ES,ES/checkin_es.wav,Clean,0.0
+ES,ES/checkin_es.wav,Clean + filter,0.0
+ES,ES/checkin_es.wav,Noisy,75.0
+ES,ES/checkin_es.wav,Noisy + filter,25.0
+ES,ES/parents_es.wav,Clean,0.0
+ES,ES/parents_es.wav,Clean + filter,0.0
+ES,ES/parents_es.wav,Noisy,60.0
+ES,ES/parents_es.wav,Noisy + filter,60.0
+ES,ES/suitcase_es.wav,Clean,0.0
+ES,ES/suitcase_es.wav,Clean + filter,0.0
+ES,ES/suitcase_es.wav,Noisy,16.666666666666664
+ES,ES/suitcase_es.wav,Noisy + filter,16.666666666666664
+ES,ES/what_time_es.wav,Clean,33.33333333333333
+ES,ES/what_time_es.wav,Clean + filter,66.66666666666666
+ES,ES/what_time_es.wav,Noisy,66.66666666666666
+ES,ES/what_time_es.wav,Noisy + filter,66.66666666666666
+ES,ES/where_es.wav,Clean,14.285714285714285
+ES,ES/where_es.wav,Clean + filter,14.285714285714285
+ES,ES/where_es.wav,Noisy,14.285714285714285
+ES,ES/where_es.wav,Noisy + filter,28.57142857142857
+IT,IT/checkin_it.wav,Clean,25.0
+IT,IT/checkin_it.wav,Clean + filter,25.0
+IT,IT/checkin_it.wav,Noisy,50.0
+IT,IT/checkin_it.wav,Noisy + filter,50.0
+IT,IT/parents_it.wav,Clean,0.0
+IT,IT/parents_it.wav,Clean + filter,0.0
+IT,IT/parents_it.wav,Noisy,40.0
+IT,IT/parents_it.wav,Noisy + filter,40.0
+IT,IT/suitcase_it.wav,Clean,0.0
+IT,IT/suitcase_it.wav,Clean + filter,0.0
+IT,IT/suitcase_it.wav,Noisy,14.285714285714285
+IT,IT/suitcase_it.wav,Noisy + filter,14.285714285714285
+IT,IT/what_time_it.wav,Clean,14.285714285714285
+IT,IT/what_time_it.wav,Clean + filter,14.285714285714285
+IT,IT/what_time_it.wav,Noisy,42.857142857142854
+IT,IT/what_time_it.wav,Noisy + filter,42.857142857142854
+IT,IT/where_it.wav,Clean,14.285714285714285
+IT,IT/where_it.wav,Clean + filter,14.285714285714285
+IT,IT/where_it.wav,Noisy,14.285714285714285
+IT,IT/where_it.wav,Noisy + filter,14.285714285714285

@@ -1,0 +1,18 @@
+Language,File,Reference,Transcript,WER (%)
+EN,checkin.wav,Where is the check-in desk?,where is the check in desk,40.0
+EN,parents.wav,I have lost my parents.,i lost my parents,20.0
+EN,suitcase.wav,"Please, I have lost my suitcase.",please have lost my suitcase,16.67
+EN,what_time.wav,What time is my plane?,what time is my plane,0.0
+EN,where.wav,Where are the restaurants and shops?,where are the restaurants and shops,0.0
+EN,sent1.wav,Can you tell me the gate number for my flight?,can you tell me the geek number for my flight,10.0
+EN,sent2.wav,Where can I find the nearest restroom?,where can i find the nearest restroom,0.0
+ES,checkin_es.wav,¿Dónde están los mostradores?,dónde están los mostradores,0.0
+ES,parents_es.wav,He perdido a mis padres.,he perdido a mis padres,0.0
+ES,suitcase_es.wav,"Por favor, he perdido mi maleta.",por favor he perdido mi maleta,0.0
+ES,what_time_es.wav,¿A qué hora es mi avión?,y ahora es mi medio,66.67
+ES,where_es.wav,¿Dónde están los restaurantes y las tiendas?,dónde están los restaurantes las tiendas,14.29
+IT,checkin_it.wav,Dove e' il bancone?,dove è il bancone,25.0
+IT,parents_it.wav,Ho perso i miei genitori.,ho perso i miei genitori,0.0
+IT,suitcase_it.wav,"Per favore, ho perso la mia valigia.",per favore ho perso la mia valigia,0.0
+IT,what_time_it.wav,A che ora e’ il mio aereo?,a che ora il mio aereo,14.29
+IT,where_it.wav,Dove sono i ristoranti e i negozi?,dove sono i ristoranti e negozi,14.29
